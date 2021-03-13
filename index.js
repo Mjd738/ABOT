@@ -44,7 +44,7 @@ limitawal = '20'
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297174@s.whatsapp.net"] 
+const ownerNumber = ["6285752541910@s.whatsapp.net","6285752541910@s.whatsapp.net"] 
 /************************************/
 
        
